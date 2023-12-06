@@ -1,10 +1,10 @@
 mod helper;
 
-mod day1 {
+mod day2 {
     pub mod day;
 }
 
-use day1::day;
+use day2::day;
 
 fn main() {
     println!("### AOC 2023 ###");
